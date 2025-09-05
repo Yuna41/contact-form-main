@@ -1,0 +1,17 @@
+@use './mixin';
+
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&display=swap');
+
+html{
+  font-size: 10px;
+}
+
+body{
+  font-family: "Karla", sans-serif;
+  font-size: 1.6rem;
+  font-weight: 400;
+}
+
+img{
+  width: 100%;
+}
